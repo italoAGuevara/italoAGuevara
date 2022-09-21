@@ -28,8 +28,6 @@ My current english level is B1
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoAGuevara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3> 🔥 My Stats: </h3>
 
